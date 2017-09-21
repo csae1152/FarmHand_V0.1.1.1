@@ -6,7 +6,9 @@ import org.springframework.boot.context.embedded.ConfigurableEmbeddedServletCont
 import org.springframework.boot.context.embedded.EmbeddedServletContainerCustomizer;
 import org.springframework.context.annotation.Bean;
 
-
+/**
+* Starting point for main application.
+*/
 @SpringBootApplication
 public class FarmHandApplication {
 
